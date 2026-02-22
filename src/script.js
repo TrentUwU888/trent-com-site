@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (socialsBtn) {
     socialsBtn.addEventListener("click", () => {
-      window.open("https://github.com/TrentUwU888", "_blank", "noopener");
+      window.open("https://www.youtube.com/@TBruns-w9o", "_blank", "noopener");
     });
   }
 });

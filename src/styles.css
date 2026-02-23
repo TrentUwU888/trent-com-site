@@ -97,43 +97,6 @@ button:focus-visible {
     margin-bottom: var(--space-lg);
 }
 
-.content-label {
-    display: inline-block;
-    margin-bottom: 10px;
-    padding: 4px 10px;
-    border-radius: 999px;
-    border: 1px solid #92400e;
-    background: #451a03;
-    color: #fde68a;
-    font-size: 13px;
-    font-weight: 700;
-}
-
-.friends-lock {
-    border: 1px dashed #64748b;
-    border-radius: 10px;
-    padding: 12px;
-    background: #111827;
-}
-
-.lock-note {
-    margin-bottom: 10px;
-}
-
-.unlock-btn {
-    margin-bottom: 10px;
-}
-
-.unlock-status {
-    min-height: 22px;
-    color: #93c5fd;
-    font-weight: 700;
-}
-
-.locked-content p + p {
-    margin-top: 8px;
-}
-
 @media (max-width: 640px) {
     .actions {
         flex-direction: column;
